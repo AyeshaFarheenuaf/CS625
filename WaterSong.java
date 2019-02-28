@@ -7,7 +7,7 @@ while (waterNum > 0)
 if (waterNum==1)
 {
 
-word ="bottles";
+word ="bottle";
 }
 
 System.out.println(waterNum + " " + word + " of water on the wall ");
